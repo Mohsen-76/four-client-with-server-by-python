@@ -1,0 +1,3 @@
+hi this is a project that has built with one server and 4 clients
+you have to run client.py files in diffrent OS and ip of each client has to be diffrent
+this for sending message between clients and server.
